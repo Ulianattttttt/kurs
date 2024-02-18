@@ -115,7 +115,9 @@ html, body{
 .opr{
     height: 1000px;
     width: 900px;
-    background-color: brown;
+    background-color: rgb(194, 213, 232);
+    border: 1px solid black;
+    border-radius: 25px;
     display: flex;
     margin-top: 15px;
    display: flex;
@@ -126,4 +128,16 @@ html, body{
 
 .x{
     font-size: 30px;
+   margin-top: 100px;
+   
+}
+.x:first-child{
+    margin-top: 150px;
+}
+
+.bl{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    margin-top: 20px;
 }
