@@ -20,7 +20,7 @@ html, body{
 .a{
     height: 800px;
     width: 900px;
-    margin-top: 100px ;
+    margin-top: 120px ;
     margin-bottom: 40px;
     background-color: rgb(221, 235, 250);
     display: flex;
@@ -43,6 +43,7 @@ html, body{
     
 }
 
+
 .t1{
     font-size: 30px;
     margin-top: 50px;
@@ -58,9 +59,9 @@ html, body{
     width: 300px;
     height: 80px;
     background-color: rgb(164, 205, 249);
-   margin-top: 250px;
-   border: 1px solid rgb(26, 47, 104);
-   display: flex;
+    margin-top: 250px;
+    border: 1px solid rgb(26, 47, 104);
+    display: flex;
     justify-content: center;
     align-items: center;
     font-size: 25px;
@@ -76,14 +77,14 @@ html, body{
     background: rgb(6, 6, 35);
     display: flex;
     justify-content: space-between;
-   position: absolute;
+    position: absolute;
 }
 
 .logo{
     color: white;
     display: flex;
     align-items: center;
-    height: 80px;
+    height: 100px;
     margin-left:57px ;
     font-size: 40px;
     font-weight: 700;
@@ -101,6 +102,7 @@ html, body{
 
 
 .htoto{
+    margin: 0;
     height: 100%;
     width: 100%;
     display: flex;
@@ -108,21 +110,21 @@ html, body{
 }
 
 .opr{
-    height: 2200px;
+    height: 2400px;
     width: 900px;
     background-color: rgb(221, 235, 250);
     border: 1px solid black;
     border-radius: 25px;
     display: flex;
     margin-top: 15px;
-   display: flex;
-   flex-direction: column;
-   align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .x{
     font-size: 30px;
-   margin-top: 100px;
+    margin-top: 100px;
 }
 .x:first-child{
     margin-top: 150px;
@@ -145,6 +147,7 @@ html, body{
 }
 
 .c{
+    margin: 0;
     height: 100%;
     width: 100%;
     display: flex;
@@ -158,7 +161,7 @@ html, body{
     justify-content: center;
     align-items: center;
     background-color: rgb(221, 235, 250);
-    margin-top: 1400px;
+    margin-top: 1600px;
     border: 1px solid black;
     border-radius: 25px;
 }
@@ -167,8 +170,8 @@ html, body{
     width: 300px;
     height: 80px;
     background-color: rgb(164, 205, 249);
-   border: 1px solid rgb(26, 47, 104);
-   display: flex;
+    border: 1px solid rgb(26, 47, 104);
+    display: flex;
     justify-content: center;
     align-items: center;
     font-size: 25px;
